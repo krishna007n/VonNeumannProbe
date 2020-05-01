@@ -1,4 +1,6 @@
+# Number-pattern
 Simple program to print the sequence: 1,2,3,3,4,4,4,4.....
+------------------------------------------------------------------------------------------
 The initial step to build a Von Neumann Probe. But the above program is a sequential way to produce the pattern.
 
 Initially, the array contains one root element(which is 1). Creation of next element:
