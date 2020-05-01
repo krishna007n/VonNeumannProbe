@@ -21,4 +21,4 @@ Basic logic:
   3.  1's third child will be 4(by adding 3), 2's new child: 4(+2), 3's new child: 4(+1)
   .................................................................................
 
-If we can implement parallel processing and some changes in the algorithm all elements will produce the next child(One copy which is mutated by incrementing value) simultaneously, in the big picture it will be like a virus spread.
+If we can implement parallel processing and some changes in the algorithm, then all elements will produce the next child(One copy which is mutated by incrementing value) simultaneously, in the big picture it will be like a virus spread.
