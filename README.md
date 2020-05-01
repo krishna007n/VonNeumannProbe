@@ -1,4 +1,4 @@
-# vonneumannprobe
+# VonNeumannProbe
 Trying to implement Von Neumann Probe concept:
 
 From Wikipedia : https://en.wikipedia.org/wiki/Self-replicating_spacecraft
